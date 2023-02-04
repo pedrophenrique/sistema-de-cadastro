@@ -10,8 +10,7 @@ Sistema para cadastrar e consultar seus jogos favoritos, de maneira ordenada e p
 
 
 ```
-Para rodar esse projeto em sua máquina, por favor digite: npm install react
-```
+node app.js```
 
 # Funcionalidade do Projeto
 - `Cadastro de jogos`
